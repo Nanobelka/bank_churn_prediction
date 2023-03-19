@@ -1,4 +1,4 @@
-# [Выбор модели для прогнозирования оттока клиентов с помощью OptunaSearchCV](https://github.com/Nanobelka/Yandex_Praktikum/blob/main/bank_churn_multi_models/bank_churn_multi_models.ipynb)
+# [Выбор модели для прогнозирования оттока клиентов с помощью OptunaSearchCV](https://nbviewer.jupyter.org/github/Nanobelka/bank_churn_prediction/blob/main/bank_churn_prediction.ipynb)
 
 ## На основании ряда характеристик создать портрет клиента, склонного к уходу из банка
 
