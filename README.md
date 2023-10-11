@@ -1,4 +1,4 @@
-# [Выбор модели для прогнозирования оттока клиентов](https://nbviewer.jupyter.org/github/Nanobelka/bank_churn_prediction/blob/main/bank_churn_prediction.ipynb)
+# [Прогнозирования оттока клиентов](https://nbviewer.jupyter.org/github/Nanobelka/bank_churn_prediction/blob/main/bank_churn_prediction.ipynb)
 ## На основании ряда характеристик создать портрет клиента, склонного к уходу из банка
 ##### Project for [Yandex.Praktikum](https://github.com/Nanobelka/Yandex_Praktikum)
 
